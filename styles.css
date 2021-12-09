@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    background-color: #00203FFF;
+    color: #ADEFD1FF;
+    margin: 0rem;
+}
+
+.heading {
+    margin-top: 7rem;
+}
+
+.palindromeHeading, .dateInput, .checkPalindrome, .outputDiv {
+    display: block;
+    margin: 1rem auto;
+}
+
+.palindromeHeading {
+    font-size: 1.5rem;
+}
+
+.dateInput {
+    border: 2px solid #1E40AF;
+    border-radius: 1rem;
+    padding: 0.7rem;
+    font-size: 1rem;
+    width: 10rem;
+}
+
+.checkPalindrome {
+    border-radius: 2rem;
+    padding: 0.7rem;
+    font-size: 1rem;
+    background-color: transparent;
+    color: #ADEFD1FF;
+    cursor: pointer;
+    border: 1px solid #ADEFD1FF;
+}
+
+.outputDiv {
+    margin: auto;
+    display: block;
+    height: 88px;
+    max-width: 65rem;
+    font-size: 1.5rem;
+    padding: 1rem
+}
+
+.footer ul {
+    padding-inline-start: 0rem;
+}
+
+.list-inline {
+    display: inline;
+    padding: 0.5rem
+}
+.container-footer{
+    background-color: #ADEFD1FF;
+    color: #00203FFF;
+    margin-top: 2rem;
+    padding: 1rem;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+.icon{
+    width: 2rem;
+    height: 2rem;
+}
